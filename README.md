@@ -1,10 +1,10 @@
-# sistema-bancario-DIO
-Project Challenge: Creating simple banking system
+# sistema-bancario
+#Project Challenge: Creating simple banking system
 
 menu = '''
-=================================
+---------------------------------
             BANCO DIO 
-=================================
+---------------------------------
 [0] Depósito
 [1] Saque
 [2] Extrato
